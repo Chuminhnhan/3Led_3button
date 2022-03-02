@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SW4 Pin=U1-28
+Removed Pin From Net: NetName=SW5 Pin=U1-29
+Added Pin To Net: NetName=NetLED4_K Pin=LED4-K
+Added Pin To Net: NetName=SW4 Pin=U1-34
+Added Pin To Net: NetName=SW5 Pin=U1-36
+Added Room: Name=3LED_3Button
