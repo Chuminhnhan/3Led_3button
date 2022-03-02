@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=LD1 Pin=P1-43
+Removed Pin From Net: NetName=LD3 Pin=P1-44
+Removed Pin From Net: NetName=LD2 Pin=P1-45
+Removed Pin From Net: NetName=SW1 Pin=P2-43
+Removed Pin From Net: NetName=SW2 Pin=P2-45
+Removed Pin From Net: NetName=SW3 Pin=P2-46
+Added Pin To Net: NetName=SW1 Pin=P1-43
+Added Pin To Net: NetName=SW2 Pin=P1-45
+Added Pin To Net: NetName=SW3 Pin=P1-46
+Added Pin To Net: NetName=LD1 Pin=P2-43
+Added Pin To Net: NetName=LD3 Pin=P2-44
+Added Pin To Net: NetName=LD2 Pin=P2-45
+Added Room: Name=3LED_3Button

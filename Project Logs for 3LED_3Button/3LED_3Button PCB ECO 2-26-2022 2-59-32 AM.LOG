@@ -1,0 +1,79 @@
+Added Component: Designator=R1(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 680k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 680k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007330"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 680k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=LED3-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-47
+Added Pin To Net: NetName=GND Pin=P1-48
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-47
+Added Pin To Net: NetName=GND Pin=P2-48
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=GND Pin=SW3-2
+Added Pin To Net: NetName=GND Pin=SW3-4
+Added Net: Name=GND
+Added Pin To Net: NetName=LD1 Pin=P1-43
+Added Pin To Net: NetName=LD1 Pin=R1-1
+Added Net: Name=LD1
+Added Pin To Net: NetName=LD2 Pin=P1-45
+Added Pin To Net: NetName=LD2 Pin=R2-1
+Added Net: Name=LD2
+Added Pin To Net: NetName=LD3 Pin=P1-44
+Added Pin To Net: NetName=LD3 Pin=R3-1
+Added Net: Name=LD3
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R2-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R3-2
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=SW1 Pin=C2-2
+Added Pin To Net: NetName=SW1 Pin=P2-43
+Added Pin To Net: NetName=SW1 Pin=SW1-1
+Added Pin To Net: NetName=SW1 Pin=SW1-3
+Added Net: Name=SW1
+Added Pin To Net: NetName=SW2 Pin=C1-2
+Added Pin To Net: NetName=SW2 Pin=P2-45
+Added Pin To Net: NetName=SW2 Pin=SW2-1
+Added Pin To Net: NetName=SW2 Pin=SW2-3
+Added Net: Name=SW2
+Added Pin To Net: NetName=SW3 Pin=C3-2
+Added Pin To Net: NetName=SW3 Pin=P2-46
+Added Pin To Net: NetName=SW3 Pin=SW3-1
+Added Pin To Net: NetName=SW3 Pin=SW3-3
+Added Net: Name=SW3
+Added Member To Class: ClassName=3LED_3Button Member=Component R1 680
+Added Member To Class: ClassName=3LED_3Button Member=Component R2 680
+Added Member To Class: ClassName=3LED_3Button Member=Component R3 680
+Added Room: Name=3LED_3Button

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LD2 Pin=P2-42
+Removed Pin From Net: NetName=LD3 Pin=P2-44
+Added Pin To Net: NetName=LD3 Pin=P2-42
+Added Pin To Net: NetName=LD2 Pin=P2-44
+Added Room: Name=3LED_3Button

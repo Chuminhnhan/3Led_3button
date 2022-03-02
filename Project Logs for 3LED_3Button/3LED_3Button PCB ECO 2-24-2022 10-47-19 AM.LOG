@@ -1,0 +1,11 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CN2 New Footprint=CN2
+Change Physical Footprint: Designator=C2 Old Footprint=CN2 New Footprint=CN2
+Change Physical Footprint: Designator=C3 Old Footprint=CN2 New Footprint=CN2
+Change Physical Footprint: Designator=LED1 Old Footprint=LED-3 New Footprint=LED-3
+Change Physical Footprint: Designator=LED2 Old Footprint=LED-3 New Footprint=LED-3
+Change Physical Footprint: Designator=LED3 Old Footprint=LED-3 New Footprint=LED-3
+Change Physical Footprint: Designator=P1 Old Footprint=HDR2X24 New Footprint=HDR2X24
+Change Physical Footprint: Designator=P2 Old Footprint=HDR2X24 New Footprint=HDR2X24
+Change Physical Footprint: Designator=SW1 Old Footprint=SW4 New Footprint=SW4
+Change Physical Footprint: Designator=SW2 Old Footprint=SW4 New Footprint=SW4
+Change Physical Footprint: Designator=SW3 Old Footprint=SW4 New Footprint=SW4

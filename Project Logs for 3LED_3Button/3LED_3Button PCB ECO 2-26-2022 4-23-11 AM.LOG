@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=SW1 Pin=P1-43
+Removed Pin From Net: NetName=SW2 Pin=P1-45
+Removed Pin From Net: NetName=SW3 Pin=P1-46
+Removed Pin From Net: NetName=GND Pin=P1-47
+Removed Pin From Net: NetName=GND Pin=P1-48
+Removed Pin From Net: NetName=LD3 Pin=P2-42
+Removed Pin From Net: NetName=LD1 Pin=P2-43
+Removed Pin From Net: NetName=LD2 Pin=P2-44
+Removed Pin From Net: NetName=GND Pin=P2-47
+Removed Pin From Net: NetName=GND Pin=P2-48
+Change Component Footprint: Designator=P1 Old Footprint=HDR2X24 New Footprint=HDR2X25
+Change Component Footprint: Designator=P2 Old Footprint=HDR2X24 New Footprint=HDR2X25
+Change Component Comment : Designator=P1 Old Comment=Header 24X2 New Comment=Header 25X2
+Change Component Comment : Designator=P2 Old Comment=Header 24X2 New Comment=Header 25X2
+Added Pin To Net: NetName=SW1 Pin=P1-45
+Added Pin To Net: NetName=SW2 Pin=P1-47
+Added Pin To Net: NetName=SW3 Pin=P1-48
+Added Pin To Net: NetName=GND Pin=P1-49
+Added Pin To Net: NetName=GND Pin=P1-50
+Added Pin To Net: NetName=LD3 Pin=P2-44
+Added Pin To Net: NetName=LD1 Pin=P2-45
+Added Pin To Net: NetName=LD2 Pin=P2-46
+Added Pin To Net: NetName=GND Pin=P2-49
+Added Pin To Net: NetName=GND Pin=P2-50
+Added Room: Name=3LED_3Button

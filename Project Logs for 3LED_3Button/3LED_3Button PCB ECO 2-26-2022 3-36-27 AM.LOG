@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=SW2 Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=SW1 Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=SW3 Pin=C3-2
+Removed Pin From Net: NetName=SW1 Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Removed Pin From Net: NetName=SW2 Pin=SW2-3
+Removed Pin From Net: NetName=GND Pin=SW2-4
+Removed Pin From Net: NetName=SW3 Pin=SW3-3
+Removed Pin From Net: NetName=GND Pin=SW3-4
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=SW2-4
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=SW2-3
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=SW1-4
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=SW1-3
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=SW3-4
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=SW3-3
+Added Net: Name=NetC3_2
+Added Room: Name=3LED_3Button
